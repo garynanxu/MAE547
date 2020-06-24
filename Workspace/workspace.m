@@ -71,8 +71,9 @@ if N2 == 1
     
 end
 
-if N3 == 1xe = xe(t);
-    
+if N3 == 1
+
+    xe = xe(t);
     Z = Z*ones(N, 1);
     
 end
