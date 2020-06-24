@@ -11,7 +11,7 @@ q: Cell Input contains constrains for
    all variables from Link 1 to n
 %}
 
-% Plz using toolbox version of 10.2 and older
+% Plz using toolbox version of 10.2 and later
 global R
 
 while(1)
